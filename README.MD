@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/4ndradeGabriel/dio-prompts-for-podcast-generate-by-ia/blob/main/output/podcast_edit.MP3">Preview Podcast</a>.
+    <a href="https://github.com/4ndradeGabriel/dio-prompts-for-podcast-generate-by-ia/blob/main/output/podcast_edit.MP3">Preview Podcast</a>
 </p>
 
 # Projeto Podcast Gerado por I.A.s
