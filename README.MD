@@ -18,9 +18,8 @@
 </a>
 </p>
 
-<a href="https://github.com/4ndradeGabriel/dio-prompts-for-podcast-generate-by-ia/blob/main/output/podcast_edit.MP3" align="center">Preview Podcast</a>.
 <p align="center">
-    preview do podcast
+    <a href="https://github.com/4ndradeGabriel/dio-prompts-for-podcast-generate-by-ia/blob/main/output/podcast_edit.MP3">Preview Podcast</a>.
 </p>
 
 # Projeto Podcast Gerado por I.A.s
@@ -59,10 +58,14 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 - 🤖 1. Use os prompts de roteiro no `chagpt`
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `midjourney`
+- 🤖 3. Use os prompts de artes no `canva`
 
 ## 👨‍💻 Autor
 
 Gabriel Andrade  
 [GitHub](https://github.com/4ndradeGabriel)  
 [LinkedIn](https://www.linkedin.com/in/andradegabrielw)  
+
+---
+
+Desenvolvido por [Gabriel Andrade](https://github.com/4ndradeGabriel)
